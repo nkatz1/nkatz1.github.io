@@ -48,4 +48,4 @@ sftp-config.json
 # audio
 *.wav
 *.mp3
-*.wma
+*.wma 
